@@ -169,7 +169,7 @@ $(document).ready(function () {
             right: 'month,agendaWeek'
         },
         editable: true,
-        events: SITEURL + "/fullcalender",
+        events: SITEURL + "/",
         displayEventTime: false,
         selectable: true,
         selectHelper: true,
