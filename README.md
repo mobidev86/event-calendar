@@ -11,3 +11,11 @@
 
 Now, you can access application at  http://127.0.0.1:8000/
 
+## ADD Event
+![image](https://github.com/mobidev86/event-calendar/assets/45712021/5650081e-279f-40f1-b68b-b5cf4601cfc0)
+
+## DELETE Event
+![image](https://github.com/mobidev86/event-calendar/assets/45712021/9739585c-b135-464d-8c5d-ae2e724b04d3)
+
+
+
